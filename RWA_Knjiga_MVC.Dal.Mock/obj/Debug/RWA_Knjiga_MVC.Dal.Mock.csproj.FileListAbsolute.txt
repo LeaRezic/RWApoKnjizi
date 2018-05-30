@@ -1,0 +1,9 @@
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Dal.Mock\bin\Debug\RWA_Knjiga_MVC.Dal.Mock.dll
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Dal.Mock\bin\Debug\RWA_Knjiga_MVC.Dal.Mock.pdb
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Dal.Mock\bin\Debug\RWA_Knjiga_MVC.Domain.dll
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Dal.Mock\bin\Debug\RWA_Knjiga_MVC.Domain.pdb
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Dal.Mock\obj\Debug\RWA_Knjiga_MVC.Dal.Mock.csprojAssemblyReference.cache
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Dal.Mock\obj\Debug\RWA_Knjiga_MVC.Dal.Mock.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Dal.Mock\obj\Debug\RWA_Knjiga_MVC.Dal.Mock.csproj.CopyComplete
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Dal.Mock\obj\Debug\RWA_Knjiga_MVC.Dal.Mock.dll
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Dal.Mock\obj\Debug\RWA_Knjiga_MVC.Dal.Mock.pdb

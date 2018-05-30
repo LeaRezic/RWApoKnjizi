@@ -1,0 +1,6 @@
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Domain\bin\Debug\RWA_Knjiga_MVC.Domain.dll
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Domain\bin\Debug\RWA_Knjiga_MVC.Domain.pdb
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Domain\obj\Debug\RWA_Knjiga_MVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Domain\obj\Debug\RWA_Knjiga_MVC.Domain.dll
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Domain\obj\Debug\RWA_Knjiga_MVC.Domain.pdb
+C:\Users\Lea\Documents\Algebra\IV Semestar\RWA\mojiProjekti\odDoma\RWA_Knjiga_MVC\RWA_Knjiga_MVC.Domain\obj\Debug\RWA_Knjiga_MVC.Domain.csprojAssemblyReference.cache

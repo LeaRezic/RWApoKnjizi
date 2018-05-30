@@ -1,0 +1,23 @@
+﻿@model RWA_Knjiga_MVC.Models.PjesmeNaAlbumuModel
+@{
+    ViewBag.Title = "PjesmeNaAlbumu";
+}
+
+<h2>Pjesme na albumu @Model.OdabraniAlbum.Naziv</h2>
+
+<div>
+    <h3>Svi albumi benda @Model.OdabraniAlbum.Bend.Naziv<text>:</text></h3>
+    @foreach (var album in Model.AlbumiOdabranogBenda)
+    {
+        <b>@album.Naziv</b><text>&nbsp;|&nbsp;</text>
+    }
+    <br />
+    <h3>Pjesme na albumu @Model.OdabraniAlbum.Naziv</h3>
+    <ul>
+        @foreach (var pjesma in Model.PjesmeNaOdabranomAlbumu)
+        {
+            <li>@pjesma.Naziv</li>
+        }
+    </ul>
+</div>
+
